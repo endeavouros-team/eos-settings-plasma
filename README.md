@@ -7,4 +7,3 @@ This consists of two items:
 * A kdeglobals file which sets this theme as the default for new user accounts
 
 The primary purpose of this is to eliminate the unused discover icon on the panel.
-
