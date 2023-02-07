@@ -1,4 +1,5 @@
 # eos-settings-plasma
+[![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)]()
 
 This repo holds the EndeavourOS customization for plasma.
 
