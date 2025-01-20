@@ -3,6 +3,9 @@
 
 This repo holds the EndeavourOS customization for plasma.
 
+Used in this package:
+https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-settings-plasma
+
 This consists of 4 items:
 * lightly customized version of Breeze Dark
 * kdeglobals file which sets this theme as the default for new user accounts
